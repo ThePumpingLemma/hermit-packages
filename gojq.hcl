@@ -12,7 +12,7 @@ darwin {
   strip = 1
 }
 
-version "0.12.5" "0.12.6" "0.12.7" "0.12.8" "0.12.9" {
+version "0.12.5" "0.12.6" "0.12.7" "0.12.8" "0.12.9" "0.12.10" {
   auto-version {
     github-release = "itchyny/gojq"
   }
