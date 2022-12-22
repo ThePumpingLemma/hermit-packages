@@ -11,7 +11,8 @@ on "unpack" {
 
 source = "https://github.com/kubernetes-sigs/aws-iam-authenticator/releases/download/v${version}/aws-iam-authenticator_${version}_${os}_amd64"
 
-version "0.4.0" "0.5.3" "0.5.5" "0.5.6" "0.5.7" "0.5.9" "0.5.11" "0.5.10" "0.5.12" {
+version "0.4.0" "0.5.3" "0.5.5" "0.5.6" "0.5.7" "0.5.9" "0.5.11" "0.5.10" "0.5.12"
+        "0.6.2" {
   auto-version {
     github-release = "kubernetes-sigs/aws-iam-authenticator"
   }
