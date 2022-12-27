@@ -2,10 +2,9 @@ description = "A simple, modern and secure encryption tool (and Go library) with
 homepage = "https://age-encryption.org"
 binaries = ["age", "age-keygen"]
 strip = 1
-
 source = "https://github.com/FiloSottile/age/releases/download/v${version}/age-v${version}-${os}-${arch}.tar.gz"
 
-version "1.0.0" {
+version "1.0.0" "1.1.1" {
   auto-version {
     github-release = "FiloSottile/age"
   }
