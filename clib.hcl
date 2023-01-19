@@ -61,7 +61,7 @@ platform "darwin" {
   source = "https://github.com/clibs/clib/releases/download/${version}/clib-macos-${version}.zip"
 }
 
-version "2.7.0" "2.8.2" {
+version "2.7.0" "2.8.2" "2.8.3" {
   auto-version {
     github-release = "clibs/clib"
   }
