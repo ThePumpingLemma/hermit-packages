@@ -10,7 +10,7 @@ on "unpack" {
   }
 }
 
-version "1.7.6" "1.7.7" {
+version "1.7.6" "1.7.7" "1.8.1" {
   auto-version {
     github-release = "jpillora/chisel"
   }
