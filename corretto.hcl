@@ -32,13 +32,14 @@ channel "stable" {
   version = "11.*"
 }
 
-version "11.0.15.9.1" "11.0.17.8.1" "11.0.18.10.1" {
+version "11.0.15.9.1" "11.0.17.8.1" "11.0.18.10.1" "11.0.19.7.1" {
   auto-version {
     github-release = "corretto/corretto-11"
   }
 }
 
-version "17.0.3.6.1" "17.0.4.8.1" "17.0.4.9.1" "17.0.5.8.1" "17.0.6.10.1" {
+version "17.0.3.6.1" "17.0.4.8.1" "17.0.4.9.1" "17.0.5.8.1" "17.0.6.10.1"
+        "17.0.7.7.1" {
   auto-version {
     github-release = "corretto/corretto-17"
   }
