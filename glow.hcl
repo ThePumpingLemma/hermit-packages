@@ -7,7 +7,7 @@ platform "amd64" {
   source = "https://github.com/charmbracelet/glow/releases/download/v${version}/glow_${version}_${os}_x86_64.tar.gz"
 }
 
-version "1.4.1" "1.5.0" {
+version "1.4.1" "1.5.0" "1.5.1" {
   auto-version {
     github-release = "charmbracelet/glow"
   }
