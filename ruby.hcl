@@ -21,7 +21,7 @@ platform "linux" "amd64" {
 }
 
 version "2.6.8_1" "2.6.10" "2.6.10_1" "3.1.4" "3.3.1" "3.3.2" "3.3.3" "3.3.4"
-        "3.3.4_1" "3.3.5" "3.3.6" "3.3.7" "3.3.8" {
+        "3.3.4_1" "3.3.5" "3.3.6" "3.3.7" "3.3.8" "3.4.3" {
   auto-version {
     github-release = "Homebrew/homebrew-portable-ruby"
   }
@@ -67,4 +67,7 @@ sha256sums = {
   "https://github.com/Homebrew/homebrew-portable-ruby/releases/download/3.3.8/portable-ruby-3.3.8.el_capitan.bottle.tar.gz": "ef0bc1da0f381f61f3e1fbc1abaf7616f66d1e2fff5eff3682645f966077392d",
   "https://github.com/Homebrew/homebrew-portable-ruby/releases/download/3.3.8/portable-ruby-3.3.8.x86_64_linux.bottle.tar.gz": "2449f1f4cbfe2332caa8410cc487fd92fd26a8a74da9f6b8c98f39eb4235fd9a",
   "https://github.com/Homebrew/homebrew-portable-ruby/releases/download/3.3.8/portable-ruby-3.3.8.arm64_big_sur.bottle.tar.gz": "7645e2d653a335798030f6502e7834dfdbeeec5629429a1a34da5dbb2c57d63e",
+  "https://github.com/Homebrew/homebrew-portable-ruby/releases/download/3.4.3/portable-ruby-3.4.3.x86_64_linux.bottle.tar.gz": "1764a2629da860b95afc96704725ec7c4cdb333724a9066ccc41ca6c55aa4f62",
+  "https://github.com/Homebrew/homebrew-portable-ruby/releases/download/3.4.3/portable-ruby-3.4.3.el_capitan.bottle.tar.gz": "9fd394a40fb1467f89206a9c89c1274d9dc053af688176667a0cac0c3014113f",
+  "https://github.com/Homebrew/homebrew-portable-ruby/releases/download/3.4.3/portable-ruby-3.4.3.arm64_big_sur.bottle.tar.gz": "40e7f5d7514a7e9757facdd39006f7a351d3d7986d3a228be13c8b1c3216727b",
 }
