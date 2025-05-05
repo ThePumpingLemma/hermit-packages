@@ -10,7 +10,7 @@ on "unpack" {
   }
 }
 
-version "1.12.9" "1.12.10" "1.13.0" "1.13.1" "1.14.0" "1.14.1" "1.14.2" {
+version "1.12.9" "1.12.10" "1.13.0" "1.13.1" "1.14.0" "1.14.1" "1.14.2" "1.14.4" {
   auto-version {
     github-release = "itamae-kitchen/mitamae"
   }
@@ -45,4 +45,8 @@ sha256sums = {
   "https://github.com/itamae-kitchen/mitamae/releases/download/v1.14.0/mitamae-aarch64-linux.tar.gz": "058828b242416816c69011ad1ffc7cbba57d64054e739804521f1dfd3d08656c",
   "https://github.com/itamae-kitchen/mitamae/releases/download/v1.14.1/mitamae-aarch64-linux.tar.gz": "d2cc9d32e99743f4fc20e24f892abbb6c9d3b0950b596cae4323554a05eb749a",
   "https://github.com/itamae-kitchen/mitamae/releases/download/v1.14.2/mitamae-aarch64-linux.tar.gz": "6e9d95c13d5ce4d20411dce1ad38e52f37ab25de05c6881afe579da8ee26e4c2",
+  "https://github.com/itamae-kitchen/mitamae/releases/download/v1.14.4/mitamae-x86_64-linux.tar.gz": "a4b80eb74e796b453916dfff739c3eaa8d3d794244a0805a423b22292afa7165",
+  "https://github.com/itamae-kitchen/mitamae/releases/download/v1.14.4/mitamae-x86_64-darwin.tar.gz": "e55073f6da72d08ea2289431b5ed7951689bda7151a2a479c409b84454770de3",
+  "https://github.com/itamae-kitchen/mitamae/releases/download/v1.14.4/mitamae-aarch64-darwin.tar.gz": "db5b2d3ac75e444dfb12aaa1b1074cc820f234b1071bfa08d7328b26d9bcde0f",
+  "https://github.com/itamae-kitchen/mitamae/releases/download/v1.14.4/mitamae-aarch64-linux.tar.gz": "e84f7b00070c6fc64b8fd0242182d4913180764dea699be4adda2cfa2e8d0683",
 }
