@@ -10,7 +10,7 @@ platform "darwin" "amd64" {
   source = "https://github.com/rust-lang/mdBook/releases/download/v${version}/mdbook-v${version}-${xarch}-apple-darwin.tar.gz"
 }
 
-version "0.4.43" "0.4.44" "0.4.45" "0.4.47" "0.4.48" "0.4.49" {
+version "0.4.43" "0.4.44" "0.4.45" "0.4.47" "0.4.48" "0.4.49" "0.4.51" {
   auto-version {
     github-release = "rust-lang/mdBook"
   }
@@ -35,4 +35,7 @@ sha256sums = {
   "https://github.com/rust-lang/mdBook/releases/download/v0.4.49/mdbook-v0.4.49-x86_64-apple-darwin.tar.gz": "1d1dc5c9a029ec0ff9fce9f04761f8d80a9315adc0ec8f0300307c92ccc3bbea",
   "https://github.com/rust-lang/mdBook/releases/download/v0.4.49/mdbook-v0.4.49-x86_64-unknown-linux-musl.tar.gz": "d0d06b19fcbc328a1f5576a6070a742b1e694c6dd439535f61b56e3afaeca9a6",
   "https://github.com/rust-lang/mdBook/releases/download/v0.4.49/mdbook-v0.4.49-aarch64-unknown-linux-musl.tar.gz": "a3217eb5f28f58e92b7a5c4f2d5e0a2a9368d90275c05a58ea154013c8558bf8",
+  "https://github.com/rust-lang/mdBook/releases/download/v0.4.51/mdbook-v0.4.51-x86_64-unknown-linux-musl.tar.gz": "b287c2f97d190c5f1b0140e383c6295d36139d5256569671b934fc2e45a2de7a",
+  "https://github.com/rust-lang/mdBook/releases/download/v0.4.51/mdbook-v0.4.51-aarch64-unknown-linux-musl.tar.gz": "b79c1cc113640a3b8b13ea0eac75a326bcaf488a0b48acc5dc2d0c3d14c1c1c1",
+  "https://github.com/rust-lang/mdBook/releases/download/v0.4.51/mdbook-v0.4.51-x86_64-apple-darwin.tar.gz": "72f0975066dce2d6aa8fa9b44a48d69d10c02ebfc696cce6b9d73e579fc31e00",
 }
