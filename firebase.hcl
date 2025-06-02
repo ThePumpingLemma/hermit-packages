@@ -42,7 +42,7 @@ version "11.6.0" "11.7.0" "11.8.0" "11.8.1" "11.9.0" "11.10.0" "11.11.0" "11.12.
         "13.21.0" "13.22.0" "13.22.1" "13.23.0" "13.23.1" "13.24.0" "13.24.1" "13.24.2"
         "13.25.0" "13.26.0" "13.27.0" "13.28.0" "13.29.0" "13.29.1" "13.29.2" "13.29.3"
         "13.30.0" "13.31.0" "13.31.1" "13.31.2" "13.32.0" "13.34.0" "13.35.1" "14.0.1" "14.1.0"
-        "14.2.1" "14.2.2" "14.3.1" "14.4.0" {
+        "14.2.1" "14.2.2" "14.3.1" "14.4.0" "14.5.1" {
   auto-version {
     github-release = "firebase/firebase-tools"
   }
@@ -345,4 +345,6 @@ sha256sums = {
   "https://github.com/firebase/firebase-tools/releases/download/v14.3.1/firebase-tools-linux": "9a454a315e7b9b070c58cbceaa2ff2b1c3164f9cc52fbf379d066539878bf6ac",
   "https://github.com/firebase/firebase-tools/releases/download/v14.4.0/firebase-tools-macos": "ff3207736cd471971ae0753abddd532aad4d64111aed51a7fe4b6f6b9c5c4531",
   "https://github.com/firebase/firebase-tools/releases/download/v14.4.0/firebase-tools-linux": "46cd430079b5b8619f87651ce2dc8fd97943c43af5e38438da867bbb1e36a9ad",
+  "https://github.com/firebase/firebase-tools/releases/download/v14.5.1/firebase-tools-linux": "b748aa0c39b8aa2f81488d79e2a099a99bb5ad5afb309d82d3a38a2e5084d5a5",
+  "https://github.com/firebase/firebase-tools/releases/download/v14.5.1/firebase-tools-macos": "35e5d358a62b4997f972d8d697d9f5e0bc50fb9813d87e2886c538b1d4e27130",
 }
