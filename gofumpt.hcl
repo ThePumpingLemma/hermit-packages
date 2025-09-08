@@ -24,7 +24,8 @@ linux {
   }
 }
 
-version "0.1.1" "0.2.0" "0.2.1" "0.3.0" "0.3.1" "0.4.0" "0.5.0" "0.6.0" "0.7.0" "0.8.0" {
+version "0.1.1" "0.2.0" "0.2.1" "0.3.0" "0.3.1" "0.4.0" "0.5.0" "0.6.0" "0.7.0" "0.8.0"
+        "0.9.1" {
   auto-version {
     github-release = "mvdan/gofumpt"
   }
@@ -61,4 +62,7 @@ sha256sums = {
   "https://github.com/mvdan/gofumpt/releases/download/v0.8.0/gofumpt_v0.8.0_linux_arm64": "787c1d3d4d20e6fe2b0bf06a5a913ac0f50343dbf9a71540724a2b8092a0e6ca",
   "https://github.com/mvdan/gofumpt/releases/download/v0.8.0/gofumpt_v0.8.0_linux_amd64": "11604bbaf7321abcc2fca2c6a37b7e9198bb1e76e5a86f297c07201e8ab1fda9",
   "https://github.com/mvdan/gofumpt/releases/download/v0.8.0/gofumpt_v0.8.0_darwin_amd64": "0dda6600cf263b703a5ad93e792b06180c36afdee9638617a91dd552f2c6fb3e",
+  "https://github.com/mvdan/gofumpt/releases/download/v0.9.1/gofumpt_v0.9.1_darwin_amd64": "62a54abe6488062fa79fbb56b44436c1d68805a9b7ce314a3fbfa37d9c17dc52",
+  "https://github.com/mvdan/gofumpt/releases/download/v0.9.1/gofumpt_v0.9.1_linux_arm64": "cb0bddd2ea3dbdc292bb1b527c6806143a1e57653bc5be9ac1c9228fbbc43135",
+  "https://github.com/mvdan/gofumpt/releases/download/v0.9.1/gofumpt_v0.9.1_linux_amd64": "a616c867ca92f63017500502b7d0b490dfe5bcbcaa265659a1b50620ad63de5c",
 }
