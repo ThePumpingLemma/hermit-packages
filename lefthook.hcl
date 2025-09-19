@@ -57,7 +57,8 @@ version "1.2.1" "1.2.0" "1.1.4" "1.1.3" "1.1.2" "1.1.1" "1.1.0" "1.0.5" "1.0.4" 
         "1.7.17" "1.7.18" "1.7.21" "1.7.22" "1.8.0" "1.8.1" "1.8.2" "1.8.4" "1.8.5" "1.9.0"
         "1.9.2" "1.9.3" "1.10.0" "1.10.1" "1.10.3" "1.10.4" "1.10.5" "1.10.7" "1.10.8"
         "1.10.9" "1.10.10" "1.10.11" "1.11.0" "1.11.1" "1.11.2" "1.11.3" "1.11.5" "1.11.6"
-        "1.11.10" "1.11.11" "1.11.12" "1.11.13" "1.11.14" "1.11.16" "1.12.1" "1.12.2" "1.12.3" {
+        "1.11.10" "1.11.11" "1.11.12" "1.11.13" "1.11.14" "1.11.16" "1.12.1" "1.12.2" "1.12.3"
+        "1.13.1" {
   auto-version {
     github-release = "evilmartians/lefthook"
   }
@@ -470,4 +471,8 @@ sha256sums = {
   "https://github.com/evilmartians/lefthook/releases/download/v1.12.3/lefthook_1.12.3_Linux_x86_64": "8e3da8411d564246450b8c22ed379b9b3070f5ce9da21384e99f9aac908b2fce",
   "https://github.com/evilmartians/lefthook/releases/download/v1.12.3/lefthook_1.12.3_MacOS_arm64": "ccd80caf0ed118fa8851ea3b924412a2bf15b0356f474994ac0089e314af8953",
   "https://github.com/evilmartians/lefthook/releases/download/v1.12.3/lefthook_1.12.3_MacOS_x86_64": "d7d5694cf1089e64a58bde0bf451fe495b689f6f18d5670ead46581d8ad119ba",
+  "https://github.com/evilmartians/lefthook/releases/download/v1.13.1/lefthook_1.13.1_Linux_x86_64": "dff8cb5ad1a7cc3cfea2ff3d43e895f65b27bd83b88d665f1031c486ee6fc524",
+  "https://github.com/evilmartians/lefthook/releases/download/v1.13.1/lefthook_1.13.1_MacOS_x86_64": "9f73e33a1517b8e41e566735da1814436a9f955203258a0dacbbb65dba4cbc18",
+  "https://github.com/evilmartians/lefthook/releases/download/v1.13.1/lefthook_1.13.1_MacOS_arm64": "f0d65100a6b41f66e2f284f61de89e720caa2cd74e999cad0a91e68ef8a35dbc",
+  "https://github.com/evilmartians/lefthook/releases/download/v1.13.1/lefthook_1.13.1_Linux_aarch64": "a4d651c73ac72a77c13e5761065120fe30e390708951dd49f4895f700fc75e0b",
 }
