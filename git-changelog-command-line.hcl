@@ -17,7 +17,7 @@ on "unpack" {
   }
 }
 
-version "2.5.3" "2.5.5" "2.5.6" "2.5.7" {
+version "2.5.3" "2.5.5" "2.5.6" "2.5.7" "3.0.0" {
   auto-version {
     github-release = "tomasbjerre/git-changelog-command-line"
   }
@@ -28,4 +28,5 @@ sha256sums = {
   "https://repo1.maven.org/maven2/se/bjurr/gitchangelog/git-changelog-command-line/2.5.5/git-changelog-command-line-2.5.5.jar": "fc999830a2cde4074fdf777235e4e4462f16b734a0b9aebcc153efdb3c68e8e3",
   "https://repo1.maven.org/maven2/se/bjurr/gitchangelog/git-changelog-command-line/2.5.6/git-changelog-command-line-2.5.6.jar": "38ff5dc59cceb3775a78ab33ebf713f349b643a3bfabe66725ab8501bd2c15bc",
   "https://repo1.maven.org/maven2/se/bjurr/gitchangelog/git-changelog-command-line/2.5.7/git-changelog-command-line-2.5.7.jar": "377d9710114ab4040c08043fdc7dd6e67eb556a0440d7b06403ef4999330c1f7",
+  "https://repo1.maven.org/maven2/se/bjurr/gitchangelog/git-changelog-command-line/3.0.0/git-changelog-command-line-3.0.0.jar": "bae9a75005bf126d7f3f39c514c857ce9a513802434d2f2dccb9a2bf8577ce4d",
 }
