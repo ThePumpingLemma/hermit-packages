@@ -21,7 +21,7 @@ version "3.0.4" "3.0.5" "3.0.6" "3.0.8" "3.0.12" "3.0.13" "3.0.9" "3.0.17" "3.0.
         "3.14.1" "3.15.1" "3.15.3" "3.17.9" "3.17.10" "3.18.0" "3.19.0" "3.19.1" "3.20.0"
         "3.20.1" "3.20.2" "3.21.0" "3.22.2" "3.23.0" "4.0.0" "4.1.0" "4.2.0" "4.5.1" "4.5.3"
         "4.5.4" "4.5.5" "4.6.3" "4.8.0" "4.10.0" "4.11.0" "4.11.1" "4.12.0" "4.16.1" "4.25.1"
-        "4.25.2" {
+        "4.25.2" "4.26.0" {
   auto-version {
     github-release = "railwayapp/cli"
   }
@@ -209,4 +209,7 @@ sha256sums = {
   "https://github.com/railwayapp/cli/releases/download/v4.25.2/railway-v4.25.2-x86_64-unknown-linux-gnu.tar.gz": "b0976ea61b289fc8096bc80e792f047696e006ba65beabbdb0ac779193442390",
   "https://github.com/railwayapp/cli/releases/download/v4.25.2/railway-v4.25.2-aarch64-apple-darwin.tar.gz": "2a4029930cef376a25c41b72a587c9b50790c02464fd5daa169420a3b0c638c2",
   "https://github.com/railwayapp/cli/releases/download/v4.25.2/railway-v4.25.2-x86_64-apple-darwin.tar.gz": "073be7337f5a621c3251dcb54c12932aa7c7747c0649fa7a1a0be650062b9b91",
+  "https://github.com/railwayapp/cli/releases/download/v4.26.0/railway-v4.26.0-x86_64-unknown-linux-gnu.tar.gz": "d617be434acac42adc10b57853856cbf85da9b733b9085f26d1a5cb371cf919f",
+  "https://github.com/railwayapp/cli/releases/download/v4.26.0/railway-v4.26.0-aarch64-apple-darwin.tar.gz": "53288851b49eb193db376e6e6889c0c5ff482e3f222809d6b948c1b402324a6e",
+  "https://github.com/railwayapp/cli/releases/download/v4.26.0/railway-v4.26.0-x86_64-apple-darwin.tar.gz": "9ba1c9988345f8c12987440ac0cfe6c388fdaa74907d3192209b5972fc959bed",
 }
