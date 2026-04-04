@@ -40,7 +40,7 @@ version "0.16.4" "0.16.7" "0.16.8" "0.16.9" "0.16.10" "0.16.11" "0.16.12" "0.16.
         "0.21.1" "0.21.2" "0.21.3" "0.21.4" "0.21.5" "0.22.0" "0.23.0" "0.23.1" "0.24.0"
         "0.24.2" "0.25.0" "0.25.1" "0.25.2" "0.25.3" "0.25.4" "0.25.5" "0.25.6" "0.25.7"
         "0.25.8" "0.25.9" "0.25.10" "0.25.11" "0.25.12" "0.27.0" "0.27.1" "0.27.2" "0.27.3"
-        "0.27.4" {
+        "0.27.4" "0.28.0" {
   auto-version {
     github-release = "evanw/esbuild"
   }
@@ -755,4 +755,8 @@ sha256sums = {
   "https://registry.npmjs.org/@esbuild/darwin-x64/-/darwin-x64-0.27.4.tgz": "8e1e020c05e4478958f3c8c34688c691f45962de3e5d8303350ba1f7b10dd161",
   "https://registry.npmjs.org/@esbuild/linux-x64/-/linux-x64-0.27.4.tgz": "95f22e373d2da05a2cb39a9b52654f7f41989e963738bb135dff8e59cf93968c",
   "https://registry.npmjs.org/@esbuild/darwin-arm64/-/darwin-arm64-0.27.4.tgz": "4a0367f87b56d26dcf2603a0bdbbe09fbc7aca4b7ca98a531a7a40c6cb30f5a6",
+  "https://registry.npmjs.org/@esbuild/darwin-arm64/-/darwin-arm64-0.28.0.tgz": "6ef1261e245caed64e4d5195572e3468f18a5df4b65df5e14f9ae10408ad5502",
+  "https://registry.npmjs.org/@esbuild/linux-arm64/-/linux-arm64-0.28.0.tgz": "9fdc4e2d6fac8e55b7ee3a69617d1fd4856d19eab72f8a150c5545c9f666973a",
+  "https://registry.npmjs.org/@esbuild/linux-x64/-/linux-x64-0.28.0.tgz": "e94bf1c7f44197b22cf6a787578eca9af805aa9624104488252de2a765c6a4f0",
+  "https://registry.npmjs.org/@esbuild/darwin-x64/-/darwin-x64-0.28.0.tgz": "58716de460d4e258a56191c1bb47c7341c1ed61d8d4d92b8991c85907e117667",
 }
