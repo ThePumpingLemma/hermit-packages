@@ -12,7 +12,7 @@ version "1.36.0" {
 version "cli-1.39.13" "cli-1.40.0" "cli-1.40.1" "cli-1.40.2" "cli-1.40.3"
         "cli-1.41.0" "cli-2.0.0" "cli-2.0.1" "cli-2.0.2" "cli-2.0.3" "cli-2.0.5" "cli-2.0.6"
         "cli-2.0.7" "cli-2.0.8" "cli-2.0.9" "cli-2.0.10" "cli-2.1.0" "cli-2.2.0" "cli-2.3.0"
-        "cli-2.4.0" {
+        "cli-2.4.0" "cli-2.5.1" {
   auto-version {
     github-release = "mobile-dev-inc/maestro"
   }
@@ -40,4 +40,5 @@ sha256sums = {
   "https://github.com/mobile-dev-inc/maestro/releases/download/cli-2.0.10/maestro.zip": "dbdcfbe2b673e1a6f40c65664f1ed5becad0b0a40e35d0e203dff511d05032f6",
   "https://github.com/mobile-dev-inc/maestro/releases/download/cli-2.2.0/maestro.zip": "6de501d2e8adf2d60f4b6b3174dc4b5e393f2f2617245d350a659627dccb0922",
   "https://github.com/mobile-dev-inc/maestro/releases/download/cli-2.4.0/maestro.zip": "aea22ce67ab6718997ec990c58652ede0c2be8f10ac4799039ca3dce3390d634",
+  "https://github.com/mobile-dev-inc/maestro/releases/download/cli-2.5.1/maestro.zip": "2d924bfd37cccabca438a727213648cbfe4f8bb711559ec8e9d199dc09a5ce52",
 }
