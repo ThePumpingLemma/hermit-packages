@@ -17,7 +17,7 @@ version "0.16.4" "0.16.5" "0.16.6" "0.16.7" "0.16.8" "0.16.9" "0.16.10" "0.16.13
         "0.18.6" "0.18.7" "0.18.9" "0.19.0" "0.19.1" "0.19.2" "0.19.4" "0.19.5" "0.20.0"
         "0.20.1" "0.20.2" "0.20.4" "0.20.5" "0.21.6" "0.21.7" "0.22.0" "0.23.0" "0.23.2"
         "0.23.3" "0.23.4" "0.23.5" "0.23.7" "0.23.8" "0.24.0" "0.25.0" "0.25.1" "0.25.2"
-        "0.26.4" "0.27.2" {
+        "0.26.4" "0.27.2" "0.29.0" {
   auto-version {
     github-release = "daveshanley/vacuum"
   }
@@ -244,4 +244,8 @@ sha256sums = {
   "https://github.com/daveshanley/vacuum/releases/download/v0.27.2/vacuum_0.27.2_linux_arm64.tar.gz": "772f1040b59d6d365709c9aab90270dd0078ca9f2a1ad918474e8b5767df804b",
   "https://github.com/daveshanley/vacuum/releases/download/v0.27.2/vacuum_0.27.2_darwin_x86_64.tar.gz": "ca33c783ac76fdb13ca8e27db5b3fe852d760d954f34b3805a68c652566c7d69",
   "https://github.com/daveshanley/vacuum/releases/download/v0.27.2/vacuum_0.27.2_linux_x86_64.tar.gz": "48513c009f1d5843d77f079d24a473b993b452a9e52d451616a423b36dbb3e92",
+  "https://github.com/daveshanley/vacuum/releases/download/v0.29.0/vacuum_0.29.0_linux_x86_64.tar.gz": "72aa972514071764fa585027cf31054bbe876175307b0fe380861a40862371a2",
+  "https://github.com/daveshanley/vacuum/releases/download/v0.29.0/vacuum_0.29.0_darwin_arm64.tar.gz": "d96f6cd6ab609f318a52dc4bfc187ae284a9fc2036b39bca7fa16d39088c3805",
+  "https://github.com/daveshanley/vacuum/releases/download/v0.29.0/vacuum_0.29.0_linux_arm64.tar.gz": "b2c5ae170dda48d691fc2052214c829ffe9f96993905e99d097fdc38cb358d1e",
+  "https://github.com/daveshanley/vacuum/releases/download/v0.29.0/vacuum_0.29.0_darwin_x86_64.tar.gz": "393960cb9f1deeb20183ddb7201569b9cbe47d5a83413679af38ee5268ff26d2",
 }
