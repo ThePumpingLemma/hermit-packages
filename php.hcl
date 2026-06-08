@@ -12,7 +12,7 @@ platform "darwin" {
 }
 
 version "8.4.1" "8.4.4" "8.4.5" "8.4.6" "8.4.8" "8.4.10" "8.4.11" "8.4.12" "8.4.13"
-        "8.4.14" "8.5.3" "8.5.4" "8.5.5" "8.5.6" {
+        "8.4.14" "8.5.3" "8.5.4" "8.5.5" "8.5.6" "8.5.7" {
   auto-version {
     github-release = "php/php-src"
     version-pattern = "php-(.*)"
@@ -76,4 +76,8 @@ sha256sums = {
   "https://dl.static-php.dev/static-php-cli/common/php-8.5.6-cli-macos-x86_64.tar.gz": "8020504f48acfa3280aa6bb0b3b47da60ea7880e3546eebd51baca4159021e70",
   "https://dl.static-php.dev/static-php-cli/common/php-8.5.6-cli-macos-aarch64.tar.gz": "5b2b28c13d1caa2dd848dafbd6e724f6639f1c018f9d2356aa76767230da2373",
   "https://dl.static-php.dev/static-php-cli/common/php-8.5.6-cli-linux-aarch64.tar.gz": "9bf9f410204bf74e7dd77a30c9efe60d7252a5ae7f149b76d11a3c40ce5fcaf1",
+  "https://dl.static-php.dev/static-php-cli/common/php-8.5.7-cli-linux-x86_64.tar.gz": "8d2dabb98ee09d72bb925e590406a1f58a76b459092ae06f1a78175a9642698b",
+  "https://dl.static-php.dev/static-php-cli/common/php-8.5.7-cli-macos-x86_64.tar.gz": "1b81e84691524aa440d084a933b2044a296588f9cb3fecc93523f585edb3f4a3",
+  "https://dl.static-php.dev/static-php-cli/common/php-8.5.7-cli-macos-aarch64.tar.gz": "e2f07d0dfa5b1d7713e893e59a8086ce1469406993699ce476fc21aa31c7cfd0",
+  "https://dl.static-php.dev/static-php-cli/common/php-8.5.7-cli-linux-aarch64.tar.gz": "281056f50dd9a17b05a70179daa18d9114bcaa07222454c176f1dd5a37ef2628",
 }
