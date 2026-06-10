@@ -3,7 +3,7 @@ homepage = "https://rest.sh/"
 binaries = ["restish"]
 source = "https://github.com/rest-sh/restish/releases/download/v${version}/restish-${version}-${os}-${arch}.tar.gz"
 
-version "0.21.2" "2.0.0" "2.1.1" {
+version "0.21.2" "2.0.0" "2.1.1" "2.2.0" {
   auto-version {
     github-release = "rest-sh/restish"
   }
@@ -22,4 +22,8 @@ sha256sums = {
   "https://github.com/rest-sh/restish/releases/download/v2.1.1/restish-2.1.1-darwin-arm64.tar.gz": "b58bcf2a5bf52d835dd3950b404ccc085806d5021d1813ce4719d7f02ee757b7",
   "https://github.com/rest-sh/restish/releases/download/v2.1.1/restish-2.1.1-linux-amd64.tar.gz": "79763bfa31cd719b75d8419f21a40916be6cefb0718a33b87054a8a5c054346d",
   "https://github.com/rest-sh/restish/releases/download/v2.1.1/restish-2.1.1-linux-arm64.tar.gz": "31ef9526e477a86529fcb8ae81a798d6ea7b1fc8ed4cfc3e02ced6bd6ce4297b",
+  "https://github.com/rest-sh/restish/releases/download/v2.2.0/restish-2.2.0-linux-arm64.tar.gz": "5b230fd7d1329f0291654b1e7c728b204ea2bdc25d666952f4a4c8457c5d4f15",
+  "https://github.com/rest-sh/restish/releases/download/v2.2.0/restish-2.2.0-linux-amd64.tar.gz": "b3f98bd9fd44d3178cfac69d71b1517f7098cf9c31d20977ea557dd220dbc238",
+  "https://github.com/rest-sh/restish/releases/download/v2.2.0/restish-2.2.0-darwin-amd64.tar.gz": "63c3d63629d31801f2887fa897a4d2b57b7b79686b6cbcef6084d18646705dc8",
+  "https://github.com/rest-sh/restish/releases/download/v2.2.0/restish-2.2.0-darwin-arm64.tar.gz": "49adbe2541032ab0d0b6bda60a1f5b7bdfeee33ed681f5245a4a561e3acf1dc5",
 }
