@@ -16,7 +16,7 @@ homepage = "https://coder.com"
 version "2.24.2" "2.23.4" "2.24.3" "2.25.1" "2.25.2" "2.25.3" "2.26.1" "2.26.2"
         "2.26.3" "2.27.3" "2.27.4" "2.27.5" "2.27.6" "2.27.7" "2.27.8" "2.28.5" "2.28.6"
         "2.28.7" "2.28.8" "2.28.9" "2.29.5" "2.29.6" "2.29.7" "2.30.2" "2.30.3" "2.30.4"
-        "2.30.5" "2.31.7" "2.31.9" "2.32.5" "2.33.6" {
+        "2.30.5" "2.31.7" "2.31.9" "2.32.5" "2.33.6" "2.33.8" {
   auto-version {
     github-release = "coder/coder"
   }
@@ -147,4 +147,8 @@ sha256sums = {
   "https://github.com/coder/coder/releases/download/v2.33.6/coder_2.33.6_linux_arm64.tar.gz": "aee38961e4cab22352cdac8284ed747887dbfdcf602eed3f09259cb963abba11",
   "https://github.com/coder/coder/releases/download/v2.33.6/coder_2.33.6_darwin_arm64.zip": "5699b208312651afc5fa1d2bc06db32c303b2d0c343833bbd890403b01eb7b0f",
   "https://github.com/coder/coder/releases/download/v2.33.6/coder_2.33.6_linux_amd64.tar.gz": "1e45052a2851488394c7ce4d9e6daaf35d9f0138aa0580f75418c16f6d75e19b",
+  "https://github.com/coder/coder/releases/download/v2.33.8/coder_2.33.8_linux_arm64.tar.gz": "76764e04d1c6aa6d3861ac5497300d31e36c45dd4d032e8dc1cfe88a0eb8b9b0",
+  "https://github.com/coder/coder/releases/download/v2.33.8/coder_2.33.8_darwin_arm64.zip": "76259eec7d067b7bd2c5c727bacf72cab53ebc9298b345eddb2227104192cc80",
+  "https://github.com/coder/coder/releases/download/v2.33.8/coder_2.33.8_linux_amd64.tar.gz": "c2a326210b7330ff30282cf3b49ee53bc9c37ac645e71e1ea470f23350c11b50",
+  "https://github.com/coder/coder/releases/download/v2.33.8/coder_2.33.8_darwin_amd64.zip": "a7db010313840f8de6e945611be723c86d36a7e33d0064b6c8530021d515a3ee",
 }
