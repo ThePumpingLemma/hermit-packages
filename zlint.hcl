@@ -36,7 +36,7 @@ platform "windows" {
   }
 }
 
-version "0.7.9" "0.8.1" {
+version "0.7.9" "0.8.1" "0.9.0" {
   auto-version {
     github-release = "DonIsaac/zlint"
   }
@@ -51,4 +51,8 @@ sha256sums = {
   "https://github.com/DonIsaac/zlint/releases/download/v0.8.1/zlint-linux-aarch64": "0e91b617fb938b952c7953d01d24bd1a67a2803a78949d224c5ba7e22604fac9",
   "https://github.com/DonIsaac/zlint/releases/download/v0.8.1/zlint-linux-x86_64": "e50df2d3b23843c9833fe532cf6da9a442f2c06890b3b6bf4afe6809be97ab22",
   "https://github.com/DonIsaac/zlint/releases/download/v0.8.1/zlint-macos-x86_64": "3d3408ce7f471f17de43eb2654f106928bad36e57ba5f83e6738fd2a1337d042",
+  "https://github.com/DonIsaac/zlint/releases/download/v0.9.0/zlint-linux-x86_64": "2485f4f744345e4b7c23a6023e96f0a22306d832f64ba3aeba08d35c90f81a71",
+  "https://github.com/DonIsaac/zlint/releases/download/v0.9.0/zlint-macos-x86_64": "4a32a99427e2fc9145c368b2c841c376a383b1122beee8e4e4e51391d2b15466",
+  "https://github.com/DonIsaac/zlint/releases/download/v0.9.0/zlint-macos-aarch64": "4fec73b34a2dbf867a491117ce429e94f7dac10021d5d245a692b88c739579db",
+  "https://github.com/DonIsaac/zlint/releases/download/v0.9.0/zlint-linux-aarch64": "6a023e6da22b90a1db411ce8666bf415a8df902d263cd7a64dbf98107cfb4c58",
 }
