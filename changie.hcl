@@ -3,7 +3,7 @@ binaries = ["changie"]
 test = "changie --version"
 
 version "1.16.1" "1.17.0" "1.18.0" "1.19.0" "1.19.1" "1.20.1" "1.21.0" "1.21.1"
-        "1.22.0" "1.22.1" "1.23.0" "1.24.0" {
+        "1.22.0" "1.22.1" "1.23.0" "1.24.0" "1.25.0" {
   auto-version {
     github-release = "miniscruff/changie"
   }
@@ -68,4 +68,8 @@ sha256sums = {
   "https://github.com/miniscruff/changie/releases/download/v1.24.0/changie_1.24.0_linux_amd64.tar.gz": "706937c1874eb7c270d15f644d8a84a74dfa7f27778cbc8ca9cb045a0d68d9df",
   "https://github.com/miniscruff/changie/releases/download/v1.24.0/changie_1.24.0_darwin_arm64.tar.gz": "cdbca27a073fc741c5ff08e9792444f459dbc5cff151ecb7118f2fdab9ea346f",
   "https://github.com/miniscruff/changie/releases/download/v1.24.0/changie_1.24.0_darwin_amd64.tar.gz": "4ffd88cb50b2ad382b609318a41be81e7d29a750be7607fab7024e76cccb67fa",
+  "https://github.com/miniscruff/changie/releases/download/v1.25.0/changie_1.25.0_darwin_arm64.tar.gz": "2bb82efe29506391cb39f346c75e71a4a2dff159fb7b641d16939476f6abde59",
+  "https://github.com/miniscruff/changie/releases/download/v1.25.0/changie_1.25.0_linux_arm64.tar.gz": "26345ccf8b9ded9bb6663faf8eb3518b5fff746db9f4422a653271f8ebfb03c0",
+  "https://github.com/miniscruff/changie/releases/download/v1.25.0/changie_1.25.0_linux_amd64.tar.gz": "f8c012073cd7865783d6db5123c59cdc006b2244309ce80243c8f6a1dda7aa5a",
+  "https://github.com/miniscruff/changie/releases/download/v1.25.0/changie_1.25.0_darwin_amd64.tar.gz": "e9a0931d1850200c647ea5721d4a1289ae2bb7c03e1995770cabf10c94324387",
 }
