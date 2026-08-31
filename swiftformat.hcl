@@ -18,7 +18,7 @@ platform "linux" {
   }
 }
 
-version "0.58.7" "0.59.1" "0.60.1" "0.61.0" "0.61.1" "0.62.1" {
+version "0.58.7" "0.59.1" "0.60.1" "0.61.0" "0.61.1" "0.62.1" "0.63.0" {
   auto-version {
     github-release = "nicklockwood/SwiftFormat"
   }
@@ -37,4 +37,6 @@ sha256sums = {
   "https://github.com/nicklockwood/SwiftFormat/releases/download/0.61.1/swiftformat.zip": "b990400779aceb7d7020796eb9ba814d4480543f671d38fc0ff48cb72f04c584",
   "https://github.com/nicklockwood/SwiftFormat/releases/download/0.62.1/swiftformat.zip": "7cb1cb1fae04932047c7015441c543848e8e60e1572d808d080e0a1f1661114a",
   "https://github.com/nicklockwood/SwiftFormat/releases/download/0.62.1/swiftformat_linux.zip": "61ff55f3581e2144a4ad114831167102c38be853df75c1477d20b40a8e8120aa",
+  "https://github.com/nicklockwood/SwiftFormat/releases/download/0.63.0/swiftformat.zip": "28c7802e11fa5ae113d903066439c6bb1be20a8ac1ad9709c42616a7e273fb0f",
+  "https://github.com/nicklockwood/SwiftFormat/releases/download/0.63.0/swiftformat_linux.zip": "b4a3cbb8c852a0baaf9adf853e221ff1dabf921a3d8957a602e0bda3af8470f1",
 }
