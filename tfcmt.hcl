@@ -19,7 +19,7 @@ platform "linux" "arm64" {
   source = "https://github.com/suzuki-shunsuke/tfcmt/releases/download/v${version}/tfcmt_linux_arm64.tar.gz"
 }
 
-version "4.14.15" "4.14.17" {
+version "4.14.15" "4.14.17" "4.14.19" {
   auto-version {
     github-release = "suzuki-shunsuke/tfcmt"
   }
@@ -34,4 +34,8 @@ sha256sums = {
   "https://github.com/suzuki-shunsuke/tfcmt/releases/download/v4.14.17/tfcmt_darwin_amd64.tar.gz": "0580442b45494d0c877e137cfa528e38973931649f49f38c6cd266a188b96eba",
   "https://github.com/suzuki-shunsuke/tfcmt/releases/download/v4.14.17/tfcmt_darwin_arm64.tar.gz": "c933c36ff2786b418abb719a557ed84b7eade1f63881a87cae2869cdd4f07d53",
   "https://github.com/suzuki-shunsuke/tfcmt/releases/download/v4.14.17/tfcmt_linux_arm64.tar.gz": "59ceb027256a58a30f504f794caa498be0280f8538d21a564d42dce1398b3552",
+  "https://github.com/suzuki-shunsuke/tfcmt/releases/download/v4.14.19/tfcmt_linux_amd64.tar.gz": "3f6b840542bd14a981b3ca881413b79ac82c1fd79acee05cd8a5e41904fa9785",
+  "https://github.com/suzuki-shunsuke/tfcmt/releases/download/v4.14.19/tfcmt_darwin_arm64.tar.gz": "05dbd97f9c69d27dd669e7a803e579b434b8d7320b442ecc42f666f0445cc2ee",
+  "https://github.com/suzuki-shunsuke/tfcmt/releases/download/v4.14.19/tfcmt_linux_arm64.tar.gz": "4945c80b176fd8a5d78e94adba99d6ac39e88943076748e8d25015e878699b03",
+  "https://github.com/suzuki-shunsuke/tfcmt/releases/download/v4.14.19/tfcmt_darwin_amd64.tar.gz": "947cf081ffabe3d3d537c924fc53778f6ebd6d3af225b54c59600de3366eeb98",
 }

@@ -12,7 +12,7 @@ platform "linux" {
 }
 
 version "0.107.0" "0.108.0" "0.109.0" "0.109.1" "0.110.0" "0.111.0" "0.112.2"
-        "0.113.0" "0.113.1" "0.114.0" "0.114.1" {
+        "0.113.0" "0.113.1" "0.114.0" "0.114.1" "0.115.1" {
   auto-version {
     github-release = "nushell/nushell"
   }
@@ -63,4 +63,8 @@ sha256sums = {
   "https://github.com/nushell/nushell/releases/download/0.114.1/nu-0.114.1-aarch64-unknown-linux-gnu.tar.gz": "39944812ee619736fd50828e66c96b91747c1e189ccddac89c3ac1a02e0614f2",
   "https://github.com/nushell/nushell/releases/download/0.114.1/nu-0.114.1-aarch64-apple-darwin.tar.gz": "cb0ac9b97b985cd217a952f44438a14d2df2a95504d9bd8bc01ec73e1351b179",
   "https://github.com/nushell/nushell/releases/download/0.114.1/nu-0.114.1-x86_64-unknown-linux-gnu.tar.gz": "8802b26edcdf1a64477567b5ce909fbae3d72d731c8f0847892ea16c6fa73c53",
+  "https://github.com/nushell/nushell/releases/download/0.115.1/nu-0.115.1-x86_64-unknown-linux-gnu.tar.gz": "d11d825241f6504a3617c535fa725a9dd6d009c86d7b19fb3168b47635b9d8b0",
+  "https://github.com/nushell/nushell/releases/download/0.115.1/nu-0.115.1-x86_64-apple-darwin.tar.gz": "0292f4b92af29cfe5d9c4b2ec06eeb325b705d1d6c19536a8bec2b75859b3485",
+  "https://github.com/nushell/nushell/releases/download/0.115.1/nu-0.115.1-aarch64-apple-darwin.tar.gz": "2e6ed1eb043869ff05b5f2448a8c443e4d3a93557ba4303b21008a0523c96734",
+  "https://github.com/nushell/nushell/releases/download/0.115.1/nu-0.115.1-aarch64-unknown-linux-gnu.tar.gz": "5c4a5bca0af5b070e903a68fa014cc24e6419d0ac9cec03a2948494b2d310e08",
 }
