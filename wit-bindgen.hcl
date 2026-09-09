@@ -15,7 +15,7 @@ source = "https://github.com/bytecodealliance/wit-bindgen/releases/download/v${v
 
 version "0.43.0" "0.44.0" "0.45.0" "0.45.1" "0.46.0" "0.47.0" "0.48.0" "0.48.1"
         "0.49.0" "0.50.0" "0.51.0" "0.52.0" "0.53.0" "0.53.1" "0.54.0" "0.55.0" "0.57.1"
-        "0.58.0" "0.59.0" "0.60.0" {
+        "0.58.0" "0.59.0" "0.60.0" "0.61.1" {
   auto-version {
     github-release = "bytecodealliance/wit-bindgen"
   }
@@ -102,4 +102,8 @@ sha256sums = {
   "https://github.com/bytecodealliance/wit-bindgen/releases/download/v0.60.0/wit-bindgen-0.60.0-aarch64-linux.tar.gz": "6018d1cba03d1e1df2e75ad1a3c5d9b9b62dcb3fb0874da6b13c03ff103646a6",
   "https://github.com/bytecodealliance/wit-bindgen/releases/download/v0.60.0/wit-bindgen-0.60.0-x86_64-linux.tar.gz": "6dc887e6d66a183d196885ff611e7f0a7db64db189f95c18f2a65fcf65d3651b",
   "https://github.com/bytecodealliance/wit-bindgen/releases/download/v0.60.0/wit-bindgen-0.60.0-aarch64-macos.tar.gz": "9978c6f4bbcb5cd5449fcbb215f58750b3d7f42b08b9104876a0ce5d3374385b",
+  "https://github.com/bytecodealliance/wit-bindgen/releases/download/v0.61.1/wit-bindgen-0.61.1-x86_64-linux.tar.gz": "1aea51f8379e36e76081c08fcc5faada928c03a6d0965a55132d72c8d966463c",
+  "https://github.com/bytecodealliance/wit-bindgen/releases/download/v0.61.1/wit-bindgen-0.61.1-x86_64-macos.tar.gz": "f14010b6531e6fe420763b9e04d000f81f4afb535285c6da5cff49fee585f96c",
+  "https://github.com/bytecodealliance/wit-bindgen/releases/download/v0.61.1/wit-bindgen-0.61.1-aarch64-linux.tar.gz": "f696fe9d1f3ded1926f3648e07371dc5b55467125e57c89ebbe3d3e595c1c1c2",
+  "https://github.com/bytecodealliance/wit-bindgen/releases/download/v0.61.1/wit-bindgen-0.61.1-aarch64-macos.tar.gz": "7f3a73a917a73a67d9d9b8e422dc4e938d3bdb749926109426dd631de2298365",
 }
