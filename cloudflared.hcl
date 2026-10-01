@@ -30,7 +30,7 @@ version "2022.2.0" "2022.2.1" "2022.2.2" "2022.3.0" "2022.3.1" "2022.3.2" "2022.
         "2025.1.1" "2025.2.0" "2025.2.1" "2025.4.0" "2025.4.2" "2025.5.0" "2025.6.0" "2025.6.1"
         "2025.7.0" "2025.8.0" "2025.8.1" "2025.9.0" "2025.9.1" "2025.10.0" "2025.10.1"
         "2025.11.1" "2026.1.1" "2026.1.2" "2026.2.0" "2026.3.0" "2026.5.2" "2026.6.0" "2026.7.1"
-        "2026.7.2" "2026.7.3" "2026.8.1" "2026.8.2" "2026.8.3" "2026.9.0" {
+        "2026.7.2" "2026.7.3" "2026.8.1" "2026.8.2" "2026.8.3" "2026.9.0" "2026.9.3" {
   auto-version {
     github-release = "cloudflare/cloudflared"
   }
@@ -346,4 +346,7 @@ sha256sums = {
   "https://github.com/cloudflare/cloudflared/releases/download/2026.9.0/cloudflared-linux-arm64": "98aca3173f73248fad6180fc75dade2d186a6e54fa807e088108cb4345de8efe",
   "https://github.com/cloudflare/cloudflared/releases/download/2026.9.0/cloudflared-darwin-amd64.tgz": "8f2ecf41776d942bcc8070a56e7bafa4c5de70a1d1781110e2eb3774cca512a8",
   "https://github.com/cloudflare/cloudflared/releases/download/2026.9.0/cloudflared-linux-amd64": "53b7a7a5420d188758d24341294acb0d1bca54296548ac05e38811a694ac6134",
+  "https://github.com/cloudflare/cloudflared/releases/download/2026.9.3/cloudflared-linux-amd64": "77e26d8d900e0b8469f416239d14b5f296525fdf79fee6f511ef55609e3fbac2",
+  "https://github.com/cloudflare/cloudflared/releases/download/2026.9.3/cloudflared-linux-arm64": "aaeb2d7d0da3614634c7e03ab13487a1522c2e79165ed2929cfe23d5e95b326d",
+  "https://github.com/cloudflare/cloudflared/releases/download/2026.9.3/cloudflared-darwin-amd64.tgz": "d1155d0837487f261183b15c1eab6c4ebcad9dc49b94675f1524c3564cea3977",
 }
