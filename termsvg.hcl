@@ -11,7 +11,7 @@ platform "darwin" {
   source = "https://github.com/MrMarble/termsvg/releases/download/v${version}/termsvg-${version}-${os}-${arch}.zip"
 }
 
-version "0.10.0" {
+version "0.10.0" "0.13.0" {
   auto-version {
     github-release = "MrMarble/termsvg"
   }
@@ -22,4 +22,8 @@ sha256sums = {
   "https://github.com/MrMarble/termsvg/releases/download/v0.10.0/termsvg-0.10.0-darwin-amd64.zip": "c79ff93682407f991b0a1d5e21b3c56177646d60eb141accca476a97e431a577",
   "https://github.com/MrMarble/termsvg/releases/download/v0.10.0/termsvg-0.10.0-darwin-arm64.zip": "e07aa739544ca06d49cd36231f6e1a51abaab4c20fe075bf8277879d02a8d126",
   "https://github.com/MrMarble/termsvg/releases/download/v0.10.0/termsvg-0.10.0-linux-arm64.tar.gz": "5bdc04a58a9d397298721fac96d1ed5e278ef87e5d08f92613753044950098f6",
+  "https://github.com/MrMarble/termsvg/releases/download/v0.13.0/termsvg-0.13.0-linux-amd64.tar.gz": "712e0736c3fb495e7c363af799b2e3f9c65c84c8bbf265b7cf80817176f74464",
+  "https://github.com/MrMarble/termsvg/releases/download/v0.13.0/termsvg-0.13.0-darwin-amd64.zip": "a3da16aaca15834a15fd49cd0aff75f06028c9df03de0a17c9392c1b3ad591e7",
+  "https://github.com/MrMarble/termsvg/releases/download/v0.13.0/termsvg-0.13.0-darwin-arm64.zip": "1003ace7d7b0cb844d370610ebafdad9f476c147c6f29bc75933efa131f170bb",
+  "https://github.com/MrMarble/termsvg/releases/download/v0.13.0/termsvg-0.13.0-linux-arm64.tar.gz": "5a39a0bafb540f092185b7fb256dcddaef6e296eed1fb022f6aa56191a6f4b54",
 }
