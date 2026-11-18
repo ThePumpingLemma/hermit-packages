@@ -5,7 +5,7 @@ binaries = ["kcl"]
 test = "kcl version"
 
 version "0.11.4" "0.10.10" "0.12.0" "0.12.1" "0.12.2-rc.1" "0.12.3" "0.12.4" "0.12.8"
-        "0.12.10" "0.13.0" {
+        "0.12.10" "0.13.0" "0.13.3" {
   auto-version {
     github-release = "kcl-lang/cli"
   }
@@ -52,4 +52,8 @@ sha256sums = {
   "https://github.com/kcl-lang/cli/releases/download/v0.13.0/kcl-v0.13.0-linux-amd64.tar.gz": "1cb3490c4df4c823ae6b76289797791c1077611f677d2b3a3d0bc292dc704f2e",
   "https://github.com/kcl-lang/cli/releases/download/v0.13.0/kcl-v0.13.0-darwin-arm64.tar.gz": "ebbfaded2efa0b6b9317efb316ba1f6d121b74b8f34da1e617aab4116cc9b65e",
   "https://github.com/kcl-lang/cli/releases/download/v0.13.0/kcl-v0.13.0-linux-arm64.tar.gz": "02b5844cce09ecc716690c8c53315780d6dbdf2dd33668141aa1ffe28a6bcfa6",
+  "https://github.com/kcl-lang/cli/releases/download/v0.13.3/kcl-v0.13.3-linux-amd64.tar.gz": "37c8bf8e965f3f04f512a46fdb1ba471174d7d4592a831123115bcedb77d2633",
+  "https://github.com/kcl-lang/cli/releases/download/v0.13.3/kcl-v0.13.3-darwin-arm64.tar.gz": "df663e05e53d09373d6cd34fe198626565804b4c9001e0da4b7c1e55a3506d77",
+  "https://github.com/kcl-lang/cli/releases/download/v0.13.3/kcl-v0.13.3-linux-arm64.tar.gz": "f9275285bfe7fb8e6911a7459dd4a81305ff176fac68455431c10de50aff36ff",
+  "https://github.com/kcl-lang/cli/releases/download/v0.13.3/kcl-v0.13.3-darwin-amd64.tar.gz": "619e07eae8647c31e7d4187eeeacc8d76b8c10a6c37ddbcfa7d0d618abee9f43",
 }
