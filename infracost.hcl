@@ -47,7 +47,7 @@ platform "linux" "arm64" {
   }
 }
 
-version "0.10.42" "0.10.43" "0.10.44" "0.10.45" "0.10.46" "0.10.47" {
+version "0.10.42" "0.10.43" "0.10.44" "0.10.45" "0.10.46" "0.10.47" "0.10.50" {
   auto-version {
     github-release = "infracost/infracost"
   }
@@ -78,4 +78,8 @@ sha256sums = {
   "https://github.com/infracost/infracost/releases/download/v0.10.47/infracost-darwin-amd64.tar.gz": "fe7dfd9f4024bdbf80c5a2605a56f070ea77e1adcd060a4a0dadf4dc2c118b4f",
   "https://github.com/infracost/infracost/releases/download/v0.10.47/infracost-darwin-arm64.tar.gz": "2bbfc4fda9f6d17449aab41ed2fc13855e7ddab451a869b2aa06a504fe3a3b65",
   "https://github.com/infracost/infracost/releases/download/v0.10.47/infracost-linux-arm64.tar.gz": "1db33dddcac989f39687fa9bf00ed9d8cce4268450578848e5bf6287ad8a7b44",
+  "https://github.com/infracost/infracost/releases/download/v0.10.50/infracost-darwin-arm64.tar.gz": "e96377baaf85694e8e77ee8dc72a8e5ea58ed241f63521788a9929bba9623bc0",
+  "https://github.com/infracost/infracost/releases/download/v0.10.50/infracost-linux-arm64.tar.gz": "a68ca6f5562f8ce2d2281f663ae7b0cb4951df9824cd2c7d9be53c0b51e637e7",
+  "https://github.com/infracost/infracost/releases/download/v0.10.50/infracost-darwin-amd64.tar.gz": "df09371cc10cd44572fe3a43a59b782cb9e6c2ccb2108a3dcf7bbed9000bfb3c",
+  "https://github.com/infracost/infracost/releases/download/v0.10.50/infracost-linux-amd64.tar.gz": "409b2d530738fccb7c52b50c63af606b782965ac3c25e213782efca44dd7b293",
 }
